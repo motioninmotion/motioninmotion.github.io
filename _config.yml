@@ -1,10 +1,10 @@
 # Site settings
 title: RubyMotion Adventures - The MotionInMotion Blog
 email: info@fluffyjack.com
-description: "Polyglot programmer, but mainly a Rubyist. Web Designer/Developer, UX Designer. Creator of MotionInMotion, the RubyMotion screencast."
+description: "RubyMotion tutorials, tips, guides, and fun facts. New posts on no schdule other than \"post often\""
 baseurl: ""
 url: "http://blog.motioninmotion.tv"
-twitter_username: FluffyJack
+twitter_username: RubyMotionTV
 github_username:  FluffyJack
 timezone: Australia/Sydney
 
