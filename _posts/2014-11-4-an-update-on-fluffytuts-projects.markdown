@@ -52,6 +52,7 @@ Continuing on the RubyMotion for Rails developers route, I'll talk about the boo
 I'll be honest, I am having troubles here, I underestimated just how much is involved in writing this book, but it's slowly coming along.
 
 Two things that I've talked to some people about are:
+
 * Putting it up on Leanpub or something similar
 * Adding an Android section after the iOS and OS X ones are done
 
